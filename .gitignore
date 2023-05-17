@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+*.pdf
+*.py
+Photos_augmented_1v
+
+**/*.pdf
+**/*.py
+**/Photos_augmented_1v
+
+**/model/resnet*.hdf5
+model/resnet*.hdf5

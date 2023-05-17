@@ -1,0 +1,10 @@
+matplotlib
+numpy
+keras
+requests
+pandas
+nest-asyncio
+asyncio
+aiohttp
+tensorflow
+scikit-learn
